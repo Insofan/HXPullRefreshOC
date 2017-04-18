@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HXPullRefreshOC_Example' do
+  pod 'HXPullRefreshOC', :path => '/Users/haixiao/Desktop/OCDevelopment/HXPullRefreshOC'
+
+  target 'HXPullRefreshOC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,33 @@
+{
+  "name": "HXPullRefreshOC",
+  "version": "0.1.0",
+  "summary": "A short description of HXPullRefreshOC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Insofan/HXPullRefreshOC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Insofan": "insofan3156@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Insofan/HXPullRefreshOC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HXPullRefreshOC/Classes/**/*",
+  "resource_bundles": {
+    "HXPullRefreshOC": [
+      "HXPullRefreshOC/**/*"
+    ]
+  },
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}
